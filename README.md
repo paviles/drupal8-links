@@ -21,6 +21,7 @@
     + [Drupal 8 Field API series part 1: field formatters](http://realize.be/drupal-8-field-api-series-part-1-field-formatters)
     + [Routing Example in Drupal 8](https://github.com/nathanjo/example_d8)
     + [Controlling Access to Drupal 8 Routes with Access Checks](http://previousnext.com.au/blog/controlling-access-drupal-8-routes-access-checks)
+    + [Drupal 8 Field API series part 2: field widgets](http://realize.be/drupal-8-field-api-series-part-2-field-widgets)
 + Blog post
     + [Learn Drupal 8 now by helping to make it more unified and user/developer friendly](http://hojtsy.hu/blog/2013-feb-07/learn-drupal-8-now-helping-make-it-more-unified-and-userdeveloper-friendly)
     + [Drupal 8 and Symfony in Layman's Terms](http://www.duoconsulting.com/blog/drupal-8-and-symfony-laymans-terms)
@@ -40,6 +41,7 @@
     + [What's new in Drupal 8?](http://www.mediacurrent.com/blog/whats-new-drupal-8)
     + [How to Prepare Your Website for Drupal 8](http://www.mediacurrent.com/blog/how-prepare-your-website-drupal-8)
     + [Drupal 8: Hello OOP, Hello world!](http://effulgentsia.drupalgardens.com/content/drupal-8-hello-oop-hello-world)
+    + [Intro to Drupal 8 Vocabulary](http://www.mediacurrent.com/blog/intro-drupal-8-vocabulary)
 + Presentations
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
@@ -52,6 +54,7 @@
     + [DrupalCon Portland 2013: REST AND SERIALIZATION IN DRUPAL 8](http://www.youtube.com/watch?v=6FNfy7pU6mE)
     + [Angie Byron talks Drupal 8 as it exists today and where it's going](http://www.youtube.com/watch?v=pOrCf_PVYcc)
     + [deSymfony 2013 - Symfony y Drupal - Español](http://www.youtube.com/watch?v=luiSlDeQh3s)
+    + [Intro to Drupal 8 Vocabulary](http://www.youtube.com/watch?v=15vkeh91ql4)
 + Virtual Machines & Stacks
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
 + Books
